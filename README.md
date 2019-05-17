@@ -1,5 +1,2 @@
 # xuexi4-2
-
-
-E-mail address check
-Passworld  check
+이름과 이메일 체크입니다.
